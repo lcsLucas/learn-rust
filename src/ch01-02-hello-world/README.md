@@ -1,5 +1,5 @@
 # Hello World
-> https://rust-book.cs.brown.edu/ch01-02-hello-world.html
+`[0]` Referência <https://rust-book.cs.brown.edu/ch01-02-hello-world.html>
 
 * Todos os arquivo associado a linguagem rust termina com `.rs`.
 

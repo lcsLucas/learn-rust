@@ -1,5 +1,7 @@
 # Hello Cargo
 
+`[1]` Referência: <https://rust-book.cs.brown.edu/ch01-03-hello-cargo.html>
+
 `cargo` é um sistema de construção e gerenciador de pacotes do Rust. Ele é como se fosse o `npm` que usamos para gerenciar dependências em javascript.
 
 > #####  ⚠ Não é obrigatório o uso do cargo, mas em sistemas mais complexos ele se torna muito útil.
