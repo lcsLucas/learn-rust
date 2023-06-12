@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  rust:
+    container_name: rust
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    working_dir: /usr/rust/src
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./.vscode:/usr/rust/src
+      - ./src:/usr/rust/src
