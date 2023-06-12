@@ -4,7 +4,7 @@
 
 `cargo` é um sistema de construção e gerenciador de pacotes do Rust. Ele é como se fosse o `npm` que usamos para gerenciar dependências em javascript.
 
-> #####  ⚠ Não é obrigatório o uso do cargo, mas em sistemas mais complexos ele se torna muito útil.
+> ##### ⚠ Não é obrigatório o uso do cargo, mas em sistemas mais complexos ele se torna muito útil.
 
 Para verificar se o `cargo` está instalado, execute:
 
@@ -35,7 +35,7 @@ $ cargo build
 
 Esse comando cria uma pasta `target` e dentro dela uma outra pasta chamada `debug`, dentro dessa pasta você encontrará o binário gerado pelo comando.
 
->##### Release
+> ##### Release
 
 Quando você estiver confiante e com o projeto pronto para a produção você pode gerar o binário da aplicação com o comando:
 
